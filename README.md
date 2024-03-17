@@ -18,16 +18,16 @@
 <p><b><i><u>6.You pay for the work in stages</b></i></u>
 <p><b><i><u>7.You move into your beloved home with high-quality repairs</b></i></u></font><hr> 
 <h1 align=center><font color=white >We divide your work into 7 stages, namely: </font></h1>
-<p><font color=white size=+3><img src=P1.jpg WIDTH=200 align=right>First stage
+<p><font color=white size=+3><img src=p1.jpg WIDTH=200 align=right>First stage
 Construction of structures
 Installation of new structural elements and formation of overall dimensions of premises (partitions, doorways, etc.) </font>
 <p> <font color=white size=+3><img src=P2.jpg WIDTH=200 align=LEFTY>Second phase
 Construction of engineering systems
 Our specialists install communication networks in the apartment: electricity supply, air conditioning, water supply and sewerage</font><hr>
-<p><font color=white size=+3><img src=P3.jpg WIDTH=200 align=right>Third stage
+<p><font color=white size=+3><img src=p3.jpg WIDTH=200 align=right>Third stage
 Rough plane alignment
 Geometric alignment of the planes of all structures is carried out (plastering walls, leveling the floor with screed, leveling the ceiling with plasterboard)</font>
-<p><font color=white size=+3><img src=P4.jpg WIDTH=200 align=LEFTY>Fourth stage
+<p><font color=white size=+3><img src=p4.jpg WIDTH=200 align=LEFTY>Fourth stage
 Preparing areas for finishing
 Preparing walls, ceilings and floors for further final finishing.</font><hr>
 <p><font color=white size=+3><img src=P5.jpg WIDTH=200 align=right>Fifth stage
