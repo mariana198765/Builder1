@@ -21,7 +21,7 @@
 <p><font color=white size=+3><img src=p1.jpg WIDTH=200 align=right>First stage
 Construction of structures
 Installation of new structural elements and formation of overall dimensions of premises (partitions, doorways, etc.) </font>
-<p> <font color=white size=+3><img src=P2.jpg WIDTH=200 align=LEFTY>Second phase
+<p> <font color=white size=+3><img src=p2.jpg WIDTH=200 align=LEFTY>Second phase
 Construction of engineering systems
 Our specialists install communication networks in the apartment: electricity supply, air conditioning, water supply and sewerage</font><hr>
 <p><font color=white size=+3><img src=p3.jpg WIDTH=200 align=right>Third stage
@@ -30,17 +30,17 @@ Geometric alignment of the planes of all structures is carried out (plastering w
 <p><font color=white size=+3><img src=p4.jpg WIDTH=200 align=LEFTY>Fourth stage
 Preparing areas for finishing
 Preparing walls, ceilings and floors for further final finishing.</font><hr>
-<p><font color=white size=+3><img src=P5.jpg WIDTH=200 align=right>Fifth stage
+<p><font color=white size=+3><img src=p5.jpg WIDTH=200 align=right>Fifth stage
 "Fine" finish
 The structures are given a “finished” operational appearance (paint on the walls and ceiling, tiles in the bathrooms, parquet or laminate on the floor).</font>
-<p><font color=white size=+3><img src=P6.jpg WIDTH=200 align=LEFTY>Sixth stage
+<p><font color=white size=+3><img src=p6.jpg WIDTH=200 align=LEFTY>Sixth stage
 Arrangement of appliances and furniture
 Lighting installation, installation of household and plumbing fixtures, installation of furniture and decor</font><hr>
-<p><font color=white size=+3><img src=P7.jpg WIDTH=200 align=right>Seventh stage
+<p><font color=white size=+3><img src=p7.jpg WIDTH=200 align=right>Seventh stage
 Cleaning and turnkey delivery of the facility
 Preparing the facility for commissioning and subsequent accommodation of customers</font><hr> 
-<p><center color=white size=+3><img src=P11.jpg WIDTH=370><img src=P12.jpg WIDTH=370><img src=P10.jpg WIDTH=370>
-<p><font color=yellow size=+9><img src=P13.jpg WIDTH=300 align=right>We do our best to make your home comfortable for every resident. Our contact details tel: +447774694143 email:jaroslav160787@gmail.com 
+<p><center color=white size=+3><img src=p11.jpg WIDTH=370><img src=p12.jpg WIDTH=370><img src=p10.jpg WIDTH=370>
+<p><font color=yellow size=+9><img src=p13.jpg WIDTH=300 align=right>We do our best to make your home comfortable for every resident. Our contact details tel: +447774694143 email:jaroslav160787@gmail.com 
 <p><font color=yellow size=+9> We are waiting for your call or email:
 </body>
 </html>
